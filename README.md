@@ -1,1 +1,1 @@
-# Shotgun-CherryPie-AcrylicCase
+# Shotgun チェリーパイ アクリル積層ケース ビルドガイド
