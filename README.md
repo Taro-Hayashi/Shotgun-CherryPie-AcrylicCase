@@ -11,8 +11,8 @@
 
 ## キット内容
 ![](img/IMG_4355C.jpg)  
-|部品名|数|入手先|
-|-|-|-|
+||部品名|数|入手先|
+|-|-|-|-|
 |1||アクリルプレート|[図面データ]()|[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[工房Emerge+](emergeplus.jp)等|
 |2||15mmスペーサー|4|[遊舎工房](https://shop.yushakobo.jp/products/a0800c2?_pos=1&_sid=19dbc8a58&_ss=r&variant=37665435484321)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g2404/)|
 |3||8mmM2ネジ|8|[遊舎工房](https://shop.yushakobo.jp/products/a0800n2?_pos=2&_sid=6d67644cd&_ss=r&variant=37665433026721)、[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/g/g102178/)等|
@@ -30,7 +30,7 @@
 |工具名||
 |-|-|
 |精密ドライバー|プラス|
-|手袋|あると指紋が付くのを防げます。|
+|静電防止手袋|あると指紋が付くのを防げます。|
 
 ## 組み立て
 ※プレートの順番がわからなくなった場合はこちらを参考にしてください。
