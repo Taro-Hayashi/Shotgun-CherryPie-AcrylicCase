@@ -20,7 +20,7 @@
 
 ### 必要なもの
 ![](img/IMG_4355C.jpg)  
-※詳細は[Shotgun チェリーパイのビルドガイド](https://github.com/Taro-Hayashi/Shotgun-CherryPie)をご覧ください
+※詳細は[Shotgun チェリーパイのビルドガイド](https://github.com/Taro-Hayashi/Shotgun-CherryPie/blob/main/README.md)をご覧ください
 |部品名|||
 |-|-|-|
 |はんだ付け済みメインボード|キースイッチ|キーキャップ|
