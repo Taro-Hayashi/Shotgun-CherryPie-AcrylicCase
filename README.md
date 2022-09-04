@@ -10,7 +10,7 @@
 - キースイッチは5ピンのものがおすすめです。
 
 ## キット内容
-![](img/IMG_8778.jpeg)  
+![](img/IMG_8.jpeg)  
 |部品名|数|入手先|
 |-|-|-|
 |アクリルプレート|[図面データ](data.md)|[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[工房Emerge+](emergeplus.jp)等|
