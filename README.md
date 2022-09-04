@@ -60,3 +60,6 @@
 ゴム足を取り付けてキーキャップを取り付けたら完成です。  
 ![](img/IMG_8996.jpeg)  
 ![](img/IMG_9011.jpeg)  
+
+## 販売ページ
+- [BOOTH](https://tarohayashi.booth.pm/items/4144494)
