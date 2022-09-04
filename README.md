@@ -11,7 +11,7 @@
 - アクリルプレートのデータ及び注文品はご自由に複製、改変、頒布していただけます。
 
 ## キット内容
-![](img/IMG_4355C.jpg)  
+![](img/IMG_8778.jpeg)  
 ||部品名|数|入手先|
 |-|-|-|-|
 |1|アクリルプレート|[図面データ](data.md)|[遊舎工房](https://shop.yushakobo.jp/collections/services/products/lasercut)、[工房Emerge+](emergeplus.jp)等|
@@ -20,7 +20,7 @@
 |4|ゴム足|4|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a0800ur-01-6?variant=37665431060641)、100円ショップ、Amazon等|
 
 ### 必要なもの
-![](img/IMG_4355C.jpg)  
+![](img/IMG_8974.jpeg)  
 ※詳細は[Shotgun チェリーパイのビルドガイド](https://github.com/Taro-Hayashi/Shotgun-CherryPie/blob/main/README.md)をご覧ください
 |部品名|||
 |-|-|-|
@@ -38,12 +38,24 @@
 ※プレートの順番がわからなくなった場合はこちらを参考にしてください。
  - [プレート一覧](plates.md)
 
-キットをご購入の場合は仮組みされています。  
+キットをご購入の場合は仮組みされています。発注した場合も一度ケースとして組み立てられるか確認するとよいと思います。  
 表面のネジを外します。  
+![](img/IMG_8773.jpeg)  
 裏返してスペーサーごと底のプレートを抜き取ります。  
+![](img/IMG_8974.jpeg)  
 ネジを外して底のプレートからスペーサーを取り除いたら保護フィルムを剥がし、ふたたびネジでスペーサーを取り付けます。  
+![](img/IMG_8799.jpeg)  
 表裏があるので穴の位置に気をつけてください。  
 保護フィルムを外しつつプレートを乗せていきます。  
+![](img/IMG_8801.jpeg)  
+![](img/IMG_8805.jpeg)  
+![](img/IMG_8807.jpeg)  
+![](img/IMG_8808.jpeg)  
 スイッチプレートはメインボードとスイッチで挟み込みます。  
+![](img/IMG_9264.jpeg)  
+![](img/IMG_8982.jpeg)  
 すべてのプレートを乗せたらネジで止めます。  
-ゴム足を取り付けて完成です。  
+![](img/IMG_8991.jpeg)  
+ゴム足を取り付けてキーキャップを取り付けたら完成です。  
+![](img/IMG_8996.jpeg)  
+![](img/IMG_9011.jpeg)  
