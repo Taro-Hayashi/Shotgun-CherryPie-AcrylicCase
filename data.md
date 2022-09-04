@@ -9,7 +9,7 @@
 - [A4サイズ](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
 - [階層別](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip)
 
-kicad用ファイル、Inkscape用ファイルが入っているので各社が配布しているA4サイズのテンプレートにコピペし、レイヤーや線の色を修正して見積もりにかけてください。  
+kicad用ファイル、Inkscape用ファイルが入っているので各社A4サイズのテンプレートにコピペし、レイヤーや線の色を修正して見積もりにかけてください。  
 階層別のデータを使ってパーツを上手く配置すれば他のアクリルパーツと一緒に発注したり、特定の層だけ色を変えたりすることができます。  
 
 問題があった時はご自身で対処してください。  
