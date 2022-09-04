@@ -4,8 +4,8 @@
 - [遊舎工房](https://shop.yushakobo.jp/products/lasercut?variant=43591413629159)
 - [Emerge+](https://www.emergeplus.jp)  
 ## 発注データ  
-- [A4サイズ]([shotguncpc_A4.zip](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)) 
-- - [階層別]([shotguncpc_Vanilla.zip](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip))
+- [A4サイズ](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
+- [階層別](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip)
 
 kicad用ファイル、Inkscape用ファイルを公開しているのでが配布しているA4サイズのテンプレートにコピペし、レイヤーや線の色を修正して見積もりにかけてください。  
 階層別のファイルからパーツを上手く配置すれば他のアクリルパーツと一緒に発注したり、特定の層だけ色を変えたりすることができます。  
