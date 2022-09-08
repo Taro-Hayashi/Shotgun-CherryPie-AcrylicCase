@@ -60,6 +60,6 @@
 ![](img/IMG_9011.jpeg)  
 
 ## 販売ページ
-遊舎工房フリマで販売します。BOOTHへの在庫の追加は未定です。
+遊舎工房フリマで販売します。
 - [BOOTH](https://tarohayashi.booth.pm/items/4144494)  
 
