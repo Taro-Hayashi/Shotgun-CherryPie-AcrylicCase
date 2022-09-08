@@ -3,7 +3,7 @@
 - [キット内容](#キット内容)
 - [組み立て](#組み立て)
 ## ご注意
-- 組み立てにはShotgun チェリーパイ（[遊舎工房](https://shop.yushakobo.jp/products/3415)、[BOOTH](https://tarohayashi.booth.pm/items/3430753)）のメインボードが必要です。遊舎工房フリマではメインボード単品も販売予定です。
+- 組み立てにはShotgun チェリーパイ（[遊舎工房](https://shop.yushakobo.jp/products/3415)、[BOOTH](https://tarohayashi.booth.pm/items/3430753)）のメインボードが必要です。遊舎工房フリマではメインボード単品を販売予定です。
 - スタビライザーを使用することができません。
 - 自分で発注するとお好きな色のアクリル、ネジで制作可能です。
 - キースイッチは5ピンのものがおすすめです。
