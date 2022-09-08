@@ -19,7 +19,7 @@
 
 ### 必要なもの
 ![](img/IMG_8974.jpeg)  
-※詳細は[Shotgun チェリーパイのビルドガイド](https://github.com/Taro-Hayashi/Shotgun-CherryPie/blob/main/README.md)をご覧ください
+詳細は[Shotgun チェリーパイのビルドガイド](https://github.com/Taro-Hayashi/Shotgun-CherryPie/blob/main/README.md)をご覧ください
 |部品名|||
 |-|-|-|
 |はんだ付け済みメインボード|キースイッチ|キーキャップ|
@@ -34,7 +34,7 @@
 
 ## 組み立て
 キットをご購入の場合は仮組みされています。アクリルを発注した場合も一度ケースとして組み立てられるか確認すると安全です。  
-※プレートの順番がわからなくなった場合はこちらを参考にしてください。
+プレートの順番がわからなくなった場合はこちらを参考にしてください。
  - [プレート一覧](plates.md)
   
 表面のネジを外します。  
