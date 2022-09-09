@@ -1,7 +1,7 @@
 # アクリルプレートの発注について
 ## 発注先
 積層構造に向いた押出材を選べる、遊舎工房さんやEmerge+さんに発注することをお勧めします。  
-- [遊舎工房](https://shop.yushakobo.jp/products/lasercut?variant=43591413629159)
+- [遊舎工房](https://shop.yushakobo.jp/products/lasercut)
 - [Emerge+](https://www.emergeplus.jp)  
 
 厚みは3mm、サイズはA4です。
