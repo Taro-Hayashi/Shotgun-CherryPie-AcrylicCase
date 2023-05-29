@@ -6,7 +6,7 @@
 
 厚みは3mmです。
 ## 発注データ  
-- [A4サイズ](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
+- [450x300サイズ](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_A4.zip)
 - [階層別](https://github.com/Taro-Hayashi/Shotgun-CherryPie-AcrylicCase/releases/download/acrylic/shotguncpc_Vanilla.zip)
 
 kicad用ファイル、Inkscape用ファイルが入っているので各社A4サイズのテンプレートにコピペし、指定通りにレイヤーや線の色を修正して見積もりにかけてください。  
